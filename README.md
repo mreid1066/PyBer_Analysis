@@ -9,6 +9,7 @@ Our team was tasked with organizing and analyzing a large amount of raw data by 
 
 ### Overview of City Comparison
 By organizing different metrics by city type, we were able to see huge discrepencies among each of the categories. The urban cities had a large share of the market with 1,625 rides, over two and a half times the rides in suburban cities and thirteen times more than rural cities. Urban markets also have a considerbale more amount of drivers than both rural and suburban cities. However, it appears that while they have more drivers, the market is saturated. In Urban markets, there are roughly 50% drivers than total rides for this given time frame, compared to rural markets where the average driver completed 1.6 rides in the same period. As expected, cities also generated more money compared to the two other market types by roughly 100% and 825% respectively. However, rural and suburban cities outperormed their urban couterpart in both average fare per ride and average fare per driver. Suprisingly, the average fare per driver in rural cities was over triple the average fare in urban cities.
+
 ![ChallengeFig1](analysis/ChallengeFig1.png)
 
 ### Fares by Week Comparison
